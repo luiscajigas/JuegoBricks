@@ -1,4 +1,4 @@
-from googletrans import Translator
+from traductor import Translator
 
 def traducir_ingles_espanol(texto):
     traductor = Translator()
